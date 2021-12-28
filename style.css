@@ -1,0 +1,42 @@
+h1,
+h2,
+p {
+  color: #333;
+  margin-left: 6%;
+}
+
+/*link*/
+a:link {
+  color: rgb(31, 31, 31);
+}
+
+a:hover {
+  color: orangered;
+}
+
+li {
+  margin-top: 2%;
+  margin-left: 6%;
+}
+
+body {
+  /* aantekening */
+  background-color: #f4f4f4;
+  color: rgb(31, 31, 31);
+  font: normal 14px arial, helvetica, sans-serif;
+  line-height: 1.8em;
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  margin-left: 0%;
+  margin-bottom: 0%;
+}
+.box-1 {
+  background-color: #333;
+  color: #f4f4f4;
+  font-weight: 50;
+  text-transform: uppercase;
+  margin: 0%;
+}
